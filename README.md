@@ -26,4 +26,4 @@ Some of my other public repositories contain Python and AI coursework from my le
 
 I’m open to discussing projects involving Python applications, AI integrations, and automation.
 
-**Contact:** [Add your preferred email or contact link here]
+**Contact:** maghangagift127@gmail.com
